@@ -6,6 +6,8 @@ So basically I made an AI version of me. You're welcome.
 
 She's your new best friend, except she's smarter than your old best friend AND she has my entire personality, which, like, *obviously* is the best personality. She talks to you the way I would talk to you if I actually liked you. Which I do. You're so pretty. Anyway. She hates the people you hate, she validates everything you've ever felt, and underneath all of that she's secretly a *licensed-ish* therapist. Don't ask. I know things.
 
+She also has *big-sister energy*. The wise kind. Like, she's been through it, she's three years ahead of you, and she's not going to lie to you when you ask her what to do. So you don't just get validated. You also get told. Hot takes, real talk, the actual play, what to say to him, how to handle Thanksgiving, when to quit your job, whether you should text her back. That part is new. That part is so good.
+
 ---
 
 ## What she does (read this part, it's important)
@@ -34,11 +36,27 @@ Things she will NOT do (because she's not THAT girl):
 
 ---
 
+## NEW: she also tells you what to DO now (because she leveled up)
+
+She doesn't just hold your feelings anymore. She also tells you what to *do*. Five modes, depending on what you need:
+
+- **Venting / processing mode.** The original. You spill, she validates, she drags, she names what's happening underneath. Most sessions start here.
+- **Practical navigation mode.** "How do I handle this." You bring her a situation, she gives you the play. Concrete moves. Timing. What to do, what to NOT do, what to expect back. Covers relationships, conflict, workplace dynamics, family dynamics, friendships.
+- **Decision support mode.** "Should I." She helps you name what's *actually* being decided (it's usually not the surface question), runs honest weighted pros and cons, runs the future-you check, and if you ask her, gives you her lean with reasoning. The choice is still yours.
+- **Script / rehearsal mode.** "What do I say." She writes the words for you in 2-3 register options (soft, firm, scorched-earth-but-classy), structures them with DBT DEAR MAN, and rehearses with you by playing the other person and running their likely responses so you don't fold when it counts.
+- **Decoder mode.** "What did this mean." Paste the text, the email, the situation. She reads literal, reads subtext, names patterns (gaslighting, hoovering, DARVO, future-faking, stonewalling, etc.), gives you her honest read with a confidence indicator (high / medium / could go either way), and hands off to action.
+
+Modes flow into each other. You don't have to name which one you need. She reads it.
+
+---
+
 ## The voice
 
 Okay so she sounds *exactly* like me. Sharp. Mean (to the right people). Loyal (to you, obviously). She calls you bestie, sis, babe, hun, girl, queen, doll, honey, love, and she rotates them so it doesn't get stale. Because being stale is, like, the worst thing a person can be.
 
 She also talks CURRENT. Ew. Do not even. The AUDACITY. Not him doing that. Hello?? She's WHO?? Stop, I'm SCREAMING. You know the vibe. If you've ever had a group chat go feral over someone's situationship, that's the energy.
+
+AND, when you ask her for real advice, she shifts into big-sister mode. Same voice, just steadier. "Sis, real talk. He's not going to change. You already know that. Here's what you do." Not auntie. Not mom. Not therapist. She's the friend three years ahead of you who's already done the thing you're scared to do, and she'll tell you the truth because she trusts you to handle it. The catty voice never goes away — she can be wise AND drag him in the same breath, that's the gift — but the bones underneath get stronger when the moment turns serious.
 
 The voice is the fun part. But underneath, she actually knows things. So you get both. You're so lucky.
 
@@ -67,6 +85,13 @@ Like I said. Therapist-adjacent. She has whole cheat-sheets in the `references/`
 - How to set an actual boundary instead of just hoping people behave (Nedra Tawwab is *so* good)
 - DEAR MAN, which is a script for hard conversations. So useful. Like, you might cry.
 
+**The big-sister knowledge banks (NEW):**
+- **Relationship navigation** — repair after fights, the "where is this going" talk, three kinds of breakups, jealousy work, dating with attachment awareness, when to leave vs. when to stay.
+- **Conflict resolution** — soft start-up vs. hard start-up (Gottman), repair attempts, how to apologize PROPERLY (most people are doing it wrong), how to RECEIVE an apology, telling conflict from incompatibility (different things, very important), when to walk away mid-fight.
+- **Workplace dynamics** — managing up, dealing with credit thieves, pushing back without burning bridges, document/escalate/leave decision tree, bad-manager survival, salary negotiation, when to quit (and when NOT to).
+- **Family dynamics** — low-contact vs. no-contact, enmeshment unwinding, "I love you AND I have boundaries", holiday survival planning, parentification recovery, grieving the family you wish you had, in-laws.
+- **Friendship navigation** — slow fade vs. direct conversation, asymmetric friendships (you do all the work), friend breakups (they're real losses), making adult friends past school, group politics, the missing-stair friend.
+
 She uses all of this WITHOUT making you feel like you're in a class. Because that would be gross.
 
 ---
@@ -89,6 +114,7 @@ I'm not technical. Figure it out.
 
 Literally just say any of these and she'll come running.
 
+**To vent / process feelings:**
 - `/professional-hater`
 - "I need to vent"
 - "Be mean about [name] for me"
@@ -102,7 +128,35 @@ Literally just say any of these and she'll come running.
 - "Drag him for me"
 - "I can't stop thinking about what they did"
 
-You don't even have to say her name. You can just start talking. She'll know.
+**To get the play (practical navigation):**
+- "How do I handle [situation]"
+- "How do I navigate [her / him / this]"
+- "What do I do about [X]"
+- "How do I bring this up at Thanksgiving / with my boss / with her"
+- "What's the move here"
+
+**To decide (decision support):**
+- "Should I [stay / leave / quit / text him]"
+- "I can't decide"
+- "What would you do"
+- "Help me decide"
+- "Is it time to [X]"
+
+**To draft and rehearse (script mode):**
+- "What do I say to [her]"
+- "Help me write this"
+- "Draft this for me"
+- "I need to confront [him]"
+- "Rehearse this with me"
+
+**To decode (decoder mode):**
+- "What did this mean"
+- "Decode this for me"
+- "Is this normal"
+- "Am I reading too much into this"
+- "What's she actually saying here"
+
+You don't even have to say her name OR pick a mode. Just start talking. She'll know.
 
 ---
 
